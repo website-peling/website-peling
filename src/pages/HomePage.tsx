@@ -50,7 +50,7 @@ const HomePage: React.FC = () => {
       <InfoSection
         title="Pahami Perubahan Iklim"
         subtitle=" TANTANGAN GLOBAL"
-        imageUrl="https://lasp.colorado.edu/wp-content/uploads/2022/06/ClimateChange-1920x1080-1.jpg"
+        imageUrl="ClimateChange-1920x1080-1.jpg"
         imageAlt="Climate change effects"
       >
         <p>
